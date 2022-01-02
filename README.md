@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **50-Course/50-Course** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,13 +18,18 @@ I'm a biped bot 🙃, world-first super-bot 🤖 and a Software Engineer with pr
 
 ### About Me? Fun Fact:
 - I like experimenting with new technologies, participating hackthons and working on modular result-oriented applications 😊
-- Current working on 
+
+- Current working on:
+-   Koobo 
 
 - Getting myself into Chingu. Trying out:
 
-### Connect me on:
-
 ### Current Technologies:
+- Python
+- Javascript
+- Dart
 
 ### Let's talk tech 😁:
 - I'm open to constructive discussions on anything tech-related, you welcome to drop-by and slip-in a mail. I'd be over in your mailbox, at any moment after 🤓.
+
+### Connect me on:
