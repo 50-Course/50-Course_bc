@@ -19,10 +19,8 @@ I'm a biped bot 🙃, world-first super-bot 🤖 and a Software Engineer with pr
 
 ### About Me? Fun Fact:
 - I like experimenting with new technologies, participating hackthons and working on modular result-oriented applications 😊
-
 - Current working on ✍️:
   - [x]  Koobo - Digitized Bank Manager 
-
 - Getting myself into Chingu. Trying out:
      - [ ] 30 Days of Mobile Development wih Flutter
      - [ ] 30 Days of Node.js Development
